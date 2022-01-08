@@ -2,7 +2,7 @@
 
 ## Licenses
 
-* `CC BY-NC 3.0` – [CC BY-NC 3.0](https://github.com/alexandersep/Haskell/LICENSE.txt)
+* `CC BY-NC 3.0` – [CC BY-NC 3.0](https://github.com/alexandersep/Haskell/blob/main/LICENSE.txt)
 
 ## Real World Haskell
 
