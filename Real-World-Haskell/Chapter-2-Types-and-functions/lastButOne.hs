@@ -8,6 +8,6 @@ lastButOne xs = if length xs == 0
                 then error "empty list"
                 else if length xs == 1
                 then error "no element before a single element"
-                else if length xs <= 2
+                else if length xs == 2
                 then head xs
                 else lastButOne (tail xs)
